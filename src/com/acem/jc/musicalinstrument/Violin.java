@@ -1,6 +1,8 @@
+package com.acem.jc.musicalinstrument;
+
 public class Violin extends Musical {
     public void play() {
-        System.out.println("playing voilin");
+        System.out.println("playing violin");
     }
 
     @Override
